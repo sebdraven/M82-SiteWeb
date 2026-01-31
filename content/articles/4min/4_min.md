@@ -1,5 +1,5 @@
 ---
-title: Les “Four Minute Men” : anatomie d’une manipulation informationnelle avant l’ère numérique
+title: Les « Four Minute Men » : anatomie d’une manipulation informationnelle avant l’ère numérique
 date: 2026-01-31
 author: Bertrand Boyer
 tags: [LMI,desinformation]
