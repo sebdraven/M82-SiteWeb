@@ -5,7 +5,7 @@ author: Bertrand Boyer
 tags: [LMI,désinformation,DISARM,cognitive warfare]
 ---
 
-Après quelques ajustements (il y en a sans doute encore !) l'add-on DIMA est enfin disponible en un clic sur le [store Firefox] (https://addons.mozilla.org/fr/firefox/addon/
+Après quelques ajustements (il y en a sans doute encore !) l'add-on DIMA est enfin disponible en un clic sur le [store Firefox](https://addons.mozilla.org/fr/firefox/addon/).
 
 Ce petit outil, léger et sans LLM, analyse en statique les pages web que vous visitez pour identifier des mots clés et des structures de phrases régulièrement associées à des exploitations de biais cognitifs. Il repose sur le **framework DIMA** que le collectif M82_project développe depuis trois ans.
 
@@ -28,7 +28,7 @@ Plusieurs utilisateurs sont surpris car les sites d'information peuvent parfois 
 
 Prenons cet article du jour : ["Superprofits : les entreprises cotées multiplient les bénéfices record à travers le monde"](https://www.lemonde.fr/economie/article/2026/05/10/superprofits-a-travers-le-monde-les-entreprises-cotees-multiplient-des-benefices-record_6687681_3234.html) , DIMA indique un score de 31/100 = élevé, en cliquant sur le bouton pour avoir l'analyse complète on note ainsi la détection de 5 techniques avec un "équilibre entre Informer et Mémoriser". L'article cherche donc à "donner du sens" et à nous faire retenir l'information. Rien de plus normal pour un média ! De même les sites de ventes en ligne auront des scores élevés car ils incitent à l'action (acte d'achat).
 
-![Analyse DIMA de l'article](/images/DIMA_vigilance/Analyse1.png)
+![Analyse DIMA de l'article](/images/DIMA_vigilance/Analyse_1.png)
 
 ##Et la désinformation alors ? 
 
