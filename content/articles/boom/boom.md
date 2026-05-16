@@ -26,7 +26,7 @@ Dans la lutte contre les manipulations de l'information, les concepts de left of
 
     "AMITT’s phases are grouped into activities typically performed before a disinformation incident become publicly visible, and those after incident artifacts are widely visible online. The phases before public visibility are termed “left of boom”; those after are “right of boom” (this is an old explosive disposal term used in some infosec models)"
 
-(Source : DISARM GitHub)[https://github.com/DISARMFoundation/DISARMframeworks/blob/main/DISARM_DOCUMENTATION/00_AMITT_Design_Guide_version1.pdf]
+[Source : DISARM GitHub](https://github.com/DISARMFoundation/DISARMframeworks/blob/main/DISARM_DOCUMENTATION/00_AMITT_Design_Guide_version1.pdf)
 
 ![schéma de comparaison CTI - LMI](/images/lbr.jpg)
 
