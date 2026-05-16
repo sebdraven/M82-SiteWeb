@@ -5,8 +5,7 @@ author: Bertrand Boyer
 tags: [LMI,désinformation,DISARM,cognitive warfare]
 ---
 
-
-# Politique de confidentialité — DIMA (Digital Influence Manipulation Analyzer)
+## Politique de confidentialité — DIMA (Digital Influence Manipulation Analyzer)
 
 **Date d'effet :** mai 2026  
 **Extension développée par :** M82 Project — [https://m82-project.org](https://m82-project.org)  
@@ -68,11 +67,11 @@ Pour toute question relative à cette politique de confidentialité ou au foncti
 
 - **Email :** contact@m82-project.org  
 - **Site web :** [https://m82-project.org](https://m82-project.org)
-- **Code source :** [https://github.com/M82-project]
+- **Code source :** [https://github.com/M82-project](https://github.com/M82-project)
 
 ---
 
-# Privacy Policy — DIMA (Digital Influence Manipulation Analyzer)
+## Privacy Policy — DIMA (Digital Influence Manipulation Analyzer)
 
 **Effective date:** May 2026  
 **Extension developed by:** M82 Project — [https://m82-project.org](https://m82-project.org)  
@@ -134,4 +133,4 @@ For any questions regarding this privacy policy or the extension's operation:
 
 - **Email:** contact@m82-project.org  
 - **Website:** [https://m82-project.org](https://m82-project.org)
-- **Code:** [https://github.com/M82-project]
+- **Code:** [https://github.com/M82-project](https://github.com/M82-project)
