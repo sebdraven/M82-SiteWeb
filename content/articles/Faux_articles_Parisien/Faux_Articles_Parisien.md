@@ -109,8 +109,7 @@ discréditer le journal en question, mais peut-être, voir surtout, de
 s'appuyer sur son lectorat important, son image et d'en exploiter la
 légitimité pour faire passer de narratifs manipulés.\
 A lire sur le même thème : [Le rapport de Eu DisinfoLab Doppelganger
-Media clones serving Russian propaganda
-](https://www.disinfo.eu/wp-content/uploads/2022/09/Doppelganger-1.pdf)\
+Media clones serving Russian propaganda](https://www.disinfo.eu/wp-content/uploads/2022/09/Doppelganger-1.pdf)\
 Liste des articles (nous ne diffusons pas les liens cliquables pour
 éviter de générer du trafic sur ces sites):\
 17 février 2023 Nostalgie de la Russie La France a beaucoup à perdre en
